@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 187.65 31.96">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #ff3951;
+      }
+
+      .cls-4 {
+        fill: #14142b;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-family: PlusJakartaSans-Bold, 'Plus Jakarta Sans';
+        font-size: 28.73px;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-6" transform="translate(0 25.07)"><tspan class="cls-1" x="0" y="0">S</tspan><tspan class="cls-2" x="18.59" y="0">t</tspan><tspan class="cls-3" x="30.31" y="0">ellar</tspan><tspan class="cls-5" x="89.78" y="0"> </tspan><tspan class="cls-4" x="94.89" y="0">Studio</tspan></text>
+  </g>
+</svg>
