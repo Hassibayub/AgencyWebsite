@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191 46.83">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        fill: #ff64bd;
+      }
+
+      .cls-3 {
+        fill: #742bc9;
+      }
+
+      .cls-4 {
+        fill: #16d6fa;
+      }
+
+      .cls-5 {
+        font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans';
+        font-size: 26.9px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-6 {
+        letter-spacing: .06em;
+      }
+
+      .cls-7 {
+        letter-spacing: .06em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-5" transform="translate(45.45 30.28)"><tspan class="cls-7" x="0" y="0">tik</tspan><tspan class="cls-1" x="37.58" y="0">t</tspan><tspan class="cls-6" x="49.83" y="0">ok</tspan></text>
+    <path class="cls-4" d="m15.89,36.41c-5.5,0-9.98-4.48-9.98-9.98s4.48-9.98,9.98-9.98v3.19c-3.74,0-6.78,3.04-6.78,6.78s3.04,6.78,6.78,6.78,6.78-3.04,6.78-6.78V4.49h3.19v21.95c0,5.5-4.48,9.98-9.98,9.98Z"/>
+    <path class="cls-4" d="m33.85,15.66c-4.88,0-11.17-5.42-11.17-11.17h3.19c0,3.78,4.76,7.98,7.98,7.98v3.19Z"/>
+    <path class="cls-2" d="m19.88,38.01c-5.5,0-9.98-4.48-9.98-9.98s4.48-9.98,9.98-9.98v3.19c-3.74,0-6.78,3.04-6.78,6.78s3.04,6.78,6.78,6.78,6.78-3.04,6.78-6.78V6.08h3.19v21.95c0,5.5-4.48,9.98-9.98,9.98Z"/>
+    <path class="cls-2" d="m37.84,17.26c-4.88,0-11.17-5.42-11.17-11.17h3.19c0,3.78,4.76,7.98,7.98,7.98v3.19Z"/>
+    <path class="cls-3" d="m17.49,38.01c-5.5,0-9.98-4.48-9.98-9.98s4.48-9.98,9.98-9.98v3.19c-3.74,0-6.78,3.04-6.78,6.78s3.04,6.78,6.78,6.78,6.78-3.04,6.78-6.78V6.08h3.19v21.95c0,5.5-4.48,9.98-9.98,9.98Z"/>
+    <path class="cls-3" d="m35.44,17.26c-4.88,0-11.17-5.42-11.17-11.17h3.19c0,3.78,4.76,7.98,7.98,7.98v3.19Z"/>
+  </g>
+</svg>

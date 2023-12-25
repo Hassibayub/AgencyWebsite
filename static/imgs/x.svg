@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191 46.83">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans';
+        font-size: 26.9px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+        letter-spacing: .06em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-1" transform="translate(47.23 30.28)"><tspan x="0" y="0">x</tspan></text>
+    <path d="m13.96,4.49c-3.08,0-5.59,2.51-5.59,5.59v22.35c0,3.08,2.51,5.59,5.59,5.59h22.35c3.08,0,5.59-2.51,5.59-5.59V10.08c0-3.08-2.51-5.59-5.59-5.59H13.96Zm0,1.6h22.35c2.21,0,3.99,1.78,3.99,3.99v22.35c0,2.21-1.78,3.99-3.99,3.99H13.96c-2.21,0-3.99-1.78-3.99-3.99V10.08c0-2.21,1.78-3.99,3.99-3.99Zm1.66,5.59l7.36,10.46-7.43,8.7h2l6.34-7.42,5.22,7.42h6.34l-8.08-11.48,6.55-7.67h-2l-5.46,6.39-4.5-6.39h-6.34Zm3.06,1.6h2.45l11.26,15.96h-2.45l-11.26-15.96Z"/>
+  </g>
+</svg>

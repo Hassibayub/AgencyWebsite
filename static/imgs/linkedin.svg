@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191 46.83">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        fill: #0288d1;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans';
+        font-size: 26.9px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-5 {
+        letter-spacing: .06em;
+      }
+
+      .cls-6 {
+        letter-spacing: .06em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-4" transform="translate(45.45 30.28)"><tspan class="cls-5" x="0" y="0">lin</tspan><tspan class="cls-1" x="33.79" y="0">k</tspan><tspan class="cls-6" x="50.39" y="0">edin</tspan></text>
+    <g>
+      <path class="cls-2" d="m39.44,33.36c0,2.57-2.08,4.66-4.66,4.66H10.57c-2.57,0-4.66-2.08-4.66-4.66V9.14c0-2.57,2.08-4.66,4.66-4.66h24.21c2.57,0,4.66,2.08,4.66,4.66v24.21Z"/>
+      <path class="cls-3" d="m11.5,16.59h4.66v15.83h-4.66v-15.83Zm2.31-1.86h-.03c-1.39,0-2.29-1.04-2.29-2.33s.93-2.33,2.34-2.33,2.29,1.01,2.31,2.33c0,1.29-.9,2.33-2.34,2.33Zm20.03,17.69h-4.66v-8.47c0-2.05-1.14-3.44-2.97-3.44-1.4,0-2.15.94-2.52,1.85-.13.33-.09,1.23-.09,1.68v8.38h-4.66v-15.83h4.66v2.44c.67-1.04,1.72-2.44,4.41-2.44,3.33,0,5.83,2.1,5.83,6.77v9.06h0Z"/>
+    </g>
+  </g>
+</svg>

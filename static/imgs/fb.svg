@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 144.48 28.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #161616;
+        font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans';
+        font-size: 23.38px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="4.24" y1="27.61" x2="25.93" y2="5.92" gradientTransform="translate(0 31.85) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2aa4f4"/>
+      <stop offset="1" stop-color="#007ad9"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-2" transform="translate(33.96 23.09)"><tspan class="cls-4" x="0" y="0">f</tspan><tspan x="9.05" y="0">acebook</tspan></text>
+    <path class="cls-1" d="m14.16,0C6.34,0,0,6.34,0,14.16s6.34,14.16,14.16,14.16,14.16-6.34,14.16-14.16S21.98,0,14.16,0Z"/>
+    <path class="cls-3" d="m16.08,17.92h3.67l.58-3.72h-4.24v-2.04c0-1.55.51-2.92,1.95-2.92h2.32v-3.25c-.41-.06-1.27-.18-2.9-.18-3.41,0-5.41,1.8-5.41,5.9v2.48h-3.5v3.72h3.5v10.23c.69.1,1.4.17,2.12.17.65,0,1.29-.06,1.92-.14v-10.26Z"/>
+  </g>
+</svg>
