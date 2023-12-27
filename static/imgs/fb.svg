@@ -2,31 +2,48 @@
 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 144.48 28.7">
   <defs>
     <style>
+      @font-face {
+        font-family: 'Plus Jakarta Display';
+        src: url('https://assets.website-files.com/611c14f4bf91b0df48d41981/611c14f4bf91b06c4cd419c1_PlusJakartaDisplay-semibold.otf') format('opentype');
+        font-weight: 600;
+        font-style: normal;
+        font-display: swap;
+      }
+  
       .cls-1 {
         fill: url(#linear-gradient);
       }
-
+  
       .cls-2 {
         fill: #161616;
-        font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans';
+        font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans', sans-serif;
         font-size: 23.38px;
         font-variation-settings: 'wght' 600;
         font-weight: 600;
       }
-
+  
       .cls-3 {
         fill: #fff;
       }
-
+  
       .cls-4 {
         letter-spacing: -.01em;
       }
+
+      @media (prefers-reduced-motion: no-preference) {
+        .cls-2 {
+          font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans', sans-serif;
+          font-weight: 500;
+        }
+      }
+
     </style>
     <linearGradient id="linear-gradient" x1="4.24" y1="27.61" x2="25.93" y2="5.92" gradientTransform="translate(0 31.85) scale(1 -1)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#2aa4f4"/>
       <stop offset="1" stop-color="#007ad9"/>
     </linearGradient>
   </defs>
+  
   <g id="Layer_1-2" data-name="Layer 1">
     <text class="cls-2" transform="translate(33.96 23.09)"><tspan class="cls-4" x="0" y="0">f</tspan><tspan x="9.05" y="0">acebook</tspan></text>
     <path class="cls-1" d="m14.16,0C6.34,0,0,6.34,0,14.16s6.34,14.16,14.16,14.16,14.16-6.34,14.16-14.16S21.98,0,14.16,0Z"/>
