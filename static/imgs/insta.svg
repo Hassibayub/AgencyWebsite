@@ -1,111 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146.88 28.7">
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 146.88 28.7" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style>
-      @font-face {
-        font-family: 'Plus Jakarta Display';
-        src: url('https://assets.website-files.com/611c14f4bf91b0df48d41981/611c14f4bf91b06c4cd419c1_PlusJakartaDisplay-regular.otf') format('opentype');
-        font-weight: 400;
-        font-style: normal;
-        font-display: swap;
-      }
-      .cls-1 {
-        fill: #161616;
-        font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans', 'Plus Jakarta Display', sans-serif;
-        font-size: 23.38px;
-        font-variation-settings: 'wght' 600;
-        font-weight: 600;
-      }
-
-      .cls-2 {
-        fill: #ffe082;
-      }
-
-      .cls-3 {
-        fill: #ff5722;
-      }
-
-      .cls-4 {
-        fill: #fff;
-      }
-
-      .cls-5 {
-        fill: #ffecb3;
-      }
-
-      .cls-6 {
-        fill: #f50057;
-      }
-
-      .cls-7 {
-        fill: #ffd54f;
-      }
-
-      .cls-8 {
-        fill: #ff1744;
-      }
-
-      .cls-9 {
-        fill: #ffc107;
-      }
-
-      .cls-10 {
-        fill: #ff9800;
-      }
-
-      .cls-11 {
-        fill: #ff6f00;
-      }
-
-      .cls-12 {
-        fill: #673ab7;
-      }
-
-      .cls-13 {
-        fill: #8e24aa;
-      }
-
-      .cls-14 {
-        fill: #304ffe;
-      }
-
-      .cls-15 {
-        fill: #c2185b;
-      }
-
-      .cls-16 {
-        fill: #d81b60;
-      }
-
-      .cls-17 {
-        fill: #4928f4;
-      }
-
-      .cls-18 {
-        fill: #6200ea;
-      }
-
-      .cls-19 {
-        fill: none;
-        stroke: #fff;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 2px;
-      }
-
-      .cls-20 {
-        letter-spacing: 0em;
-      }
-
-      @media (prefers-reduced-motion: no-preference) {
-        .cls-1 {
-          font-family: PlusJakartaSans-SemiBold, 'Plus Jakarta Sans', sans-serif;
-          font-weight: 500;
-        }
-      }
-    </style>
+    <style>.cls-1 { fill: rgb(22, 22, 22); font-family: PlusJakartaSans-SemiBold, "Plus Jakarta Sans", "Plus Jakarta Display", sans-serif; font-size: 23.38px; font-variation-settings: "wght" 600; font-weight: 600; }.cls-2 { fill: rgb(255, 224, 130); }.cls-3 { fill: rgb(255, 87, 34); }.cls-4 { fill: rgb(255, 255, 255); }.cls-5 { fill: rgb(255, 236, 179); }.cls-6 { fill: rgb(245, 0, 87); }.cls-7 { fill: rgb(255, 213, 79); }.cls-8 { fill: rgb(255, 23, 68); }.cls-9 { fill: rgb(255, 193, 7); }.cls-10 { fill: rgb(255, 152, 0); }.cls-11 { fill: rgb(255, 111, 0); }.cls-12 { fill: rgb(103, 58, 183); }.cls-13 { fill: rgb(142, 36, 170); }.cls-14 { fill: rgb(48, 79, 254); }.cls-15 { fill: rgb(194, 24, 91); }.cls-16 { fill: rgb(216, 27, 96); }.cls-17 { fill: rgb(73, 40, 244); }.cls-18 { fill: rgb(98, 0, 234); }.cls-19 { fill: none; stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-linejoin: round; stroke-width: 2px; }.cls-20 { letter-spacing: 0em; }@media (prefers-reduced-motion: no-preference) {
+  .cls-1 { font-family: PlusJakartaSans-SemiBold, "Plus Jakarta Sans", sans-serif; font-weight: 500; }
+}</style>
   </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
+  <g id="Layer_1-2" data-name="Layer 1" transform="matrix(1, 0, 0, 1, 0, 1.4210854715202004e-14)">
     <path class="cls-14" d="m28.39,5.95c-.32.21-.77.4-.96.61-.07.07-.11.15-.1.23v.82l-.24.8-.24.8-.26.88-.54,1.79-.53,1.77-.4,1.33c0,.21,0,.41-.02.61-.06.76-.21,1.5-.47,2.18-.15.42-.33.83-.56,1.21-.08.15-.18.3-.27.45-.32.5-.7.96-1.12,1.37-.33.33-.68.63-1.07.88h0c-.06.06-.14.1-.21.14-.25.17-.51.31-.78.44-.18.1-.37.18-.56.25-.04.02-.09.04-.13.06-.45.21-.98.36-1.5.43-.03,0-.06,0-.09.02-.32.06-.63.1-.95.13-.14.02-.29.02-.44.02l-.57-.03-2.72-.14s0,0,0,0l-1.37-.07c-.1,0-.21,0-.32,0-.43-.02-.84-.06-1.26-.15h0c-.76-.14-1.48-.4-2.16-.74-.37-.19-.74-.41-1.08-.65-.14-.1-.28-.21-.41-.33-.38-.32-.72-.66-1.04-1.01-.05-.05-.09-.1-.13-.14-.05-.05-.1-.1-.14-.15-.3-.38-.56-.77-.76-1.19-.19-.37-.34-.76-.46-1.19-.05-.15-.09-.29-.12-.45,0,0-.02-.02-.02-.04-.08-.33-.15-.67-.19-1.01-.05-.26-.07-.53-.07-.8-.02-.1-.02-.21-.02-.32l1.52-2.35,1.49-2.29.68-1.04.61-.94.21-.33v-.82c.02-.18.02-.37.02-.55,0-.56-.12-1.1-.3-1.62-.18-.55-.42-1.07-.68-1.54-.3-.55-.62-1.04-.88-1.49-.39-.65-.66-1.19-.59-1.56.57-.14,1.18-.21,1.79-.21h12.73c3.33,0,6.19,2.07,7.38,4.98.13.31.24.64.32.97Z"/>
     <path class="cls-17" d="m28.65,7.96v.21l-1.1.64-.7.41-.77.45-1.54.9-1.51.88-1.54.89-.61.36c0,.38-.1.73-.27,1.05-.25.46-.66.84-1.19,1.17-.53.33-1.19.59-1.92.78,0,0,0,0,0,0-2.83.73-6.7.4-8.58-1-.53-.39-.89-.87-1.05-1.42-.05-.18-.07-.38-.07-.58v-5.72c0-.12-.07-.24-.21-.36-.43-.34-1.44-.67-2.57-.99-.88-.25-1.83-.49-2.63-.73-.63-.19-1.16-.38-1.48-.57.14-.28.31-.56.49-.82C2.49,1.86,4.19.66,6.17.21c.57-.14,1.18-.21,1.79-.21h8.6c4.27.75,8.21,2.49,11.52,4.98.13.31.24.64.32.97.14.53.23,1.07.25,1.63,0,.12,0,.25,0,.37Z"/>
     <path class="cls-18" d="m28.65,7.96v3.51l-.18.54-.6,1.85-.62,1.91-.33,1.02-.3.95-.29.9-.29.89-.15.47-.2.62c0,.6-.02,1.14-.06,1.59,0,.05-.02.1-.02.14-.05.42-.11.78-.21,1.08,0,.05-.02.1-.04.14-.21.57-.52.94-.98,1.18-.11.06-.24.11-.37.16-.42.14-.96.21-1.61.25-.48.03-1.03.04-1.65.04h-.55l-.95-.04h-.17s-1.73-.08-1.73-.08l-1.75-.07-5.77-.24-1.5-.06h-.21c-.62,0-1.15-.05-1.62-.11-.67-.1-1.19-.28-1.58-.54-.56-.36-.88-.88-1.07-1.62-.05-.18-.09-.36-.11-.56-.08-.46-.12-.99-.14-1.59,0-.12,0-.24,0-.37,0,0,0,0,0,0v-.46c0-.23,0-.47,0-.72l.04-1.28.02-.92.03-1.07v-.15l.06-1.96.06-1.96.06-1.84.05-1.81.02-.48c0-.25-.84-.39-1.77-.51-.74-.1-1.55-.18-2.04-.29.04-.18.08-.37.13-.54.14-.57.36-1.11.63-1.63.14-.28.31-.56.49-.82,1.72-.76,3.51-1.35,5.38-1.73,1.64-.34,3.35-.53,5.12-.53,5.86,0,11.27,1.98,15.55,5.32.41.32.82.66,1.22,1.02,0,.12,0,.25,0,.37Z"/>
@@ -127,6 +27,6 @@
       <circle class="cls-4" cx="19.9" cy="7.96" r=".8"/>
     </g>
     <circle class="cls-19" cx="14.33" cy="14.33" r="4.78"/>
-    <text class="cls-1" transform="translate(33.84 23.09)"><tspan x="0" y="0">ins</tspan><tspan class="cls-20" x="31.4" y="0">t</tspan><tspan x="40.75" y="0">agram</tspan></text>
+    <text class="cls-1" style="white-space: pre;" transform="translate(33.84 23.09)"><tspan x="0" y="0">instagram</tspan></text>
   </g>
 </svg>
